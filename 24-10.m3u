@@ -131,9 +131,9 @@ http://127.0.0.1:6878/ace/getstream?id=2c74c51c7847acfe2b8fe4ade0677afeb156afd4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="By @paradoxus" tvg-id="M+ #VAMOSHD", #Vamos 1080
 http://127.0.0.1:6878/ace/getstream?id=63ff4cc7d4a49fa600534f941ca490a0fb03d48b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DRyycB/NatGeo.jpg" group-title="By @paradoxus" tvg-id="NAT GEO HD", NAT GEO HD
-http://127.0.0.1:6878/ace/getstream?id=693eaac59852e51d467dc88a890be2456230935d
+http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="By @paradoxus" tvg-id="HISTORIA", CANAL HISTORIA HD
-http://127.0.0.1:6878/ace/getstream?id=7135a124f24deca70fb59fa1c413dfe580f1981a
+http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Rr875LY/puerta-blanca.png" group-title="By @Redrusiam" tvg-id="LaLiga HD", M .La Liga Hd
 http://127.0.0.1:6878/ace/getstream?id=167e3b44a520cd76d4372f6d30fe6d7ccd524175
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Redrusiam" tvg-id="DAZN F1 HD", DAZN F1 720 (F?rmula 1)
